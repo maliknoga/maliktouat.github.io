@@ -18,6 +18,17 @@ img {
     height: auto;
 }
 
+a {
+    color: #d82c2e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #BB8355;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
 ul,
 ol {
     list-style: none;
